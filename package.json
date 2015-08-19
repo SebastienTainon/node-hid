@@ -18,7 +18,7 @@
     "url": "git://github.com/hanshuebner/node-hid.git"
   },
   "scripts": {
-    "prepublish": "git submodule update --init",
+    "prepublish": "git submodule update --init"
   },
   "main": "./index.js",
   "engines": {
@@ -28,3 +28,4 @@
   "dependencies": {},
   "devDependencies": {}
 }
+
