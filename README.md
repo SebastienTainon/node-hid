@@ -12,11 +12,10 @@
 
 ### Compile from source on Linux or OSX
 
-To develop locally you'll need the following commands:
+Use npm to execute all installation steps:
 
 ```
-git submodule update --init   # done automatically on publish, but you'll need it locally
-npm install       # rebuilds the module
+npm install
 ```
 
 ### Compile from source on Windows
